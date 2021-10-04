@@ -1,3 +1,4 @@
+//перевод в обратный код
 #include "normal.h"
 #include <iostream>
 

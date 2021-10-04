@@ -7,10 +7,9 @@ using namespace std;
 int main()
 {
     int number;
+    int Type_Of_Code;
     cin >>number;
-    int x;
-    cin >>x;
-    cout <<func_to8_Str(number);
+    cin >>Type_Of_Code;
+    cout <<trans_8(number, Type_Of_Code);
     return 0;
 }
-

@@ -1,3 +1,4 @@
+//перевод в дополнительный код
 #include "normal.h"
 #include <iostream>
 

@@ -40,8 +40,12 @@
 		<Unit filename="if_pos.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="normal.h" />
+		<Unit filename="trans_8.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
+			<code_completion />
+			<envvars />
+			<debugger />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
